@@ -1,7 +1,6 @@
 """
 Movie Recommendations List Program
 Author: Conner Allen
-Date: 2026-04-28
 Version: 1.0
 
 Description:
